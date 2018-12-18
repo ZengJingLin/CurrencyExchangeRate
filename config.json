@@ -1,0 +1,4 @@
+{
+  "listen": "192.168.1.30:59420",
+  "statsCollectInterval": "5s"
+}
